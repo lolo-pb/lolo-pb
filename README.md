@@ -43,7 +43,7 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
 
 | 💻 [Custom Bare-Metal OS](https://github.com/teofum/tpe-arqui) |
 | :--- |
-| A from-scratch bare-metal operating system architecture exploring low-level hardware interactions, memory management, and systems-level **C** programming. |
+| A from-scratch bare-metal operating system implemnting hardware drivers, memory management, using **C**, and x86 assembly programming. and a custom 3d graphics library |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/teofum/tpe-arqui) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-4D4D4D?style=flat-square) |
 
 i cant believe youre still reading ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ just hire me lol
