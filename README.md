@@ -25,6 +25,29 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
                                                                                       \|
 ```                                                          
                                                              
+###  Recent Projects ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+
+| 🚀 [Micrography Image Processing](https://github.com/ichiP245/micrography-imgpro/tree/main) |
+| :--- |
+| A web application built with **Python** and **Streamlit** to analyze material construction for experimental rockets. Developed specifically for the ITBA Rocketry team. [Intercollegiate Rocket Engineering Competition (IREC)](https://www.soundingrocket.org/what-is-irec.html). |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ichiP245/micrography-imgpro/tree/main) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+
+<br>
+
+| 🚁 [RAS Drone Flight Controller](https://github.com/CoolRobotsAndStuff/RAS_dron) |
+| :--- |
+| A custom-built flight controller driving a drone designed to compete in the [European Rover Challenge (ERC)](https://roverchallenge.eu/). ( Still being developed ) |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CoolRobotsAndStuff/RAS_dron) ![Robotics](https://img.shields.io/badge/Robotics-000000?style=flat-square&logo=cplusplus&logoColor=white) |
+
+<br>
+
+| 💻 [Custom Bare-Metal OS](https://github.com/teofum/tpe-arqui) |
+| :--- |
+| A from-scratch bare-metal operating system architecture exploring low-level hardware interactions, memory management, and systems-level **C** programming. |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/teofum/tpe-arqui) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-4D4D4D?style=flat-square) |
+
+i cant believe youre still reading ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ just hire me lol
+
 
 <!--
 **lolo-pb/lolo-pb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
