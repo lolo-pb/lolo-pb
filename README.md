@@ -46,6 +46,13 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
 | A from-scratch bare-metal operating system implemnting hardware drivers, memory management, using **C**, and x86 assembly programming. and a custom 3d graphics library |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/teofum/tpe-arqui) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-4D4D4D?style=flat-square) |
 
+<br>
+
+| 📡 [RaspberryPi Wifi Chat](https://github.com/lolo-pb/wifi-chat) |
+| :--- |
+| A setup repo for raising a local Wi-Fi hotspot that hosts a private chat room inside the network, exposed through the native captive portal flow. |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lolo-pb/wifi-chat) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Linux Services](https://img.shields.io/badge/Linux_Services-FCC624?style=flat-square&logo=linux&logoColor=000000) ![Networking](https://img.shields.io/badge/Networking-0066CC?style=flat-square&logo=wifi&logoColor=white) |
+
 i cant believe youre still reading ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ just hire me lol
 
 
