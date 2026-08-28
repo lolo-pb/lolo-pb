@@ -29,7 +29,7 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
 
 | 🚀 [Micrography Image Processing](https://github.com/ichiP245/micrography-imgpro/tree/main) |
 | :--- |
-| A web application built with **Python** and **Streamlit** to analyze material construction for experimental rockets. Developed specifically for the ITBA Rocketry team. [Intercollegiate Rocket Engineering Competition (IREC)](https://www.soundingrocket.org/what-is-irec.html). |
+| A program to analyze composit material properties for experimental rockets. Developed specifically for the ITBA Rocketry team. [Intercollegiate Rocket Engineering Competition (IREC)](https://www.soundingrocket.org/what-is-irec.html). |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ichiP245/micrography-imgpro/tree/main) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
 <br>
@@ -43,7 +43,7 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
 
 | 💻 [Custom Bare-Metal OS](https://github.com/teofum/tpe-arqui) |
 | :--- |
-| A from-scratch bare-metal operating system implemnting hardware drivers, memory management, using **C**, and x86 assembly programming. and a custom 3d graphics library |
+| A from-scratch bare-metal operating system implemnting hardware drivers, memory management, multiprocess using **C**, and x86 assembly programming. and a custom 3d graphics library |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/teofum/tpe-arqui) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-4D4D4D?style=flat-square) |
 
 <br>
