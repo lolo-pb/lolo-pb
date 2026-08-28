@@ -31,13 +31,19 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
 | :--- |
 | A program to analyze composit material properties for experimental rockets. Developed specifically for the ITBA Rocketry team. [Intercollegiate Rocket Engineering Competition (IREC)](https://www.soundingrocket.org/what-is-irec.html). |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ichiP245/micrography-imgpro/tree/main) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-
+<!--
 <br>
-
 | 🚁 [RAS Drone Flight Controller](https://github.com/CoolRobotsAndStuff/RAS_dron) |
 | :--- |
 | A custom-built flight controller driving a drone designed to compete in the [European Rover Challenge (ERC)](https://roverchallenge.eu/). ( Still being developed ) |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CoolRobotsAndStuff/RAS_dron) ![Robotics](https://img.shields.io/badge/Robotics-000000?style=flat-square&logo=cplusplus&logoColor=white) |
+-->
+<br>
+
+| 🛩️ [Flight Controller Firmware Simulator](https://github.com/lolo-pb/daedalia-physics-sim) |
+| :--- |
+| A C++ 3D simulator for testing experimental rotorcraft FC firmware. It models sensors such and simulates hardware noise and drift. Uses OpenGL and Jolt Physics' advanced rigid-body simulation. |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lolo-pb/daedalia-physics-sim) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![Jolt Physics](https://img.shields.io/badge/Jolt_Physics-2F3542?style=flat-square) |
 
 <br>
 
