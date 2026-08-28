@@ -27,10 +27,17 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
                                                              
 ###  Recent Projects ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
+| 🚀 [Neural Network Material Analysis](https://github.com/lolo-pb/Clotho-Material-analysis) |
+| :--- |
+| A neural-network-powered successor to [Micrography Image Processing](https://github.com/ichiP245/micrography-imgpro/tree/main), built to analyze composite material properties for experimental rockets. Developed specifically for the ITBA Rocketry team and the [Intercollegiate Rocket Engineering Competition (IREC)](https://www.soundingrocket.org/what-is-irec.html). |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lolo-pb/Clotho-Material-analysis) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+
+<!--
 | 🚀 [Micrography Image Processing](https://github.com/ichiP245/micrography-imgpro/tree/main) |
 | :--- |
 | A program to analyze composit material properties for experimental rockets. Developed specifically for the ITBA Rocketry team. [Intercollegiate Rocket Engineering Competition (IREC)](https://www.soundingrocket.org/what-is-irec.html). |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ichiP245/micrography-imgpro/tree/main) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+-->
 <!--
 <br>
 | 🚁 [RAS Drone Flight Controller](https://github.com/CoolRobotsAndStuff/RAS_dron) |
