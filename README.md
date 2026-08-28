@@ -54,10 +54,17 @@ _   _..___,___     _',_  _,_,___._. .  _,__,\_o__o__o__/,__(8(_,__,_'.'--' '--' 
 
 <br>
 
+| 🧦 [SOCKSv5 Proxy Server](https://github.com/lolo-pb/SOCKSv5-proxy) |
+| :--- |
+| A SOCKS5 proxy server and client with a TUI for managing authentication and analyzing traffic. It defines and uses a purpose-built custom protocol, wrapped in a handmade ASCII-art interface :> |
+| [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lolo-pb/SOCKSv5-proxy) ![Networking](https://img.shields.io/badge/Networking-0066CC?style=flat-square&logo=socketdotio&logoColor=white) ![Terminal UI](https://img.shields.io/badge/Terminal_UI-4EAA25?style=flat-square&logo=gnometerminal&logoColor=white) ![Traffic Analytics](https://img.shields.io/badge/Traffic_Analytics-7B61FF?style=flat-square&logo=chartdotjs&logoColor=white) |
+
+<!--
 | 📡 [RaspberryPi Wifi Chat](https://github.com/lolo-pb/wifi-chat) |
 | :--- |
 | A setup repo for raising a local Wi-Fi hotspot that hosts a private chat room inside the network, exposed through the native captive portal flow. |
 | [![Repo](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lolo-pb/wifi-chat) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Linux Services](https://img.shields.io/badge/Linux_Services-FCC624?style=flat-square&logo=linux&logoColor=000000) ![Networking](https://img.shields.io/badge/Networking-0066CC?style=flat-square&logo=wifi&logoColor=white) |
+-->
 
 i cant believe youre still reading ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ just hire me lol
 
